@@ -19,8 +19,8 @@ The servo motors perform the following actions:
 
 ## Files Included
 
-- `servo_sweep.ino` - Arduino source code
-- `servo_sweep.brd` - Circuit design file
+- `4servo.ino` - Arduino source code
+- `4servo.brd` - Circuit design file
 - `circuit.png` - Circuit screenshot
 
 ## Circuit Diagram
